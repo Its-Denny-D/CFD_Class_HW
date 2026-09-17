@@ -1,0 +1,9 @@
+# Zig build artifacts
+.zig-cache/
+zig-out/
+
+# Local editor / tooling state
+.claude/settings.local.json
+.vscode/
+.idea/
+*.swp
